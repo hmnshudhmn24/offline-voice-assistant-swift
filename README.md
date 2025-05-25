@@ -45,9 +45,3 @@ open OfflineVoiceAssistant.xcodeproj
   - "What time is it?"
   - "What's the date today?"
   - "Hello"
-
----
-
-## 📄 License
-
-MIT License
